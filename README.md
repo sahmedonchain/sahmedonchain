@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a full stack developer and founder of **[BuildOrbit](https://github.com/sahmedonchain)**,
+I'm a full stack developer and founder of **[BuildOrbit](https://github.com/sahmedonchain)**
 
 I build apps, SaaS platforms, and web-based products using AI-powered development workflows - combining modern tools with real execution to deliver professional results.
 
