@@ -78,8 +78,6 @@ I also have a background in **customer support and community management** - so I
 
 <img src="https://streak-stats.demolab.com?user=sahmedonchain&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=sahmedonchain&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
