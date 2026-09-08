@@ -6,28 +6,28 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm a full stack developer and founder of **[BuildOrbit](https://github.com/sahmedonchain)**, based in Bangladesh.
 
-I build apps, SaaS platforms, and web-based products using AI-powered development workflows — combining modern tools with real execution to deliver professional results.
+I build apps, SaaS platforms, and web-based products using AI-powered development workflows - combining modern tools with real execution to deliver professional results.
 
-I've been in the **Web3 and blockchain space** for a long time — not just as a developer, but as someone who genuinely understands the ecosystem, the culture, and where it's heading.
+I've been in the **Web3 and blockchain space** for a long time - not just as a developer, but as someone who genuinely understands the ecosystem, the culture, and where it's heading.
 
-I also have a background in **customer support and community management** — so I understand people as much as I understand products.
+I also have a background in **customer support and community management** - so I understand people as much as I understand products.
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Live |
 |--------|-------------|------|
-| **MicroAI** | Pay-per-use AI chatbot dApp — Arc Testnet, USDC micropayments | [microai-tan.vercel.app](https://microai-tan.vercel.app) |
-| **ShadowPay** | Privacy-first payroll & treasury dApp — built on Miden's ZK architecture | [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app) |
+| **MicroAI** | Pay-per-use AI chatbot dApp - Arc Testnet, USDC micropayments | [microai-tan.vercel.app](https://microai-tan.vercel.app) |
+| **ShadowPay** | Privacy-first payroll & treasury dApp - built on Miden's ZK architecture | [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app) |
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I also have a background in **customer support and community management** — so
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ I also have a background in **customer support and community management** — so
 
 ---
 
-### 🌐 Connect
+### Connect
 
 <div align="center">
 
