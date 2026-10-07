@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Sahmed%20Zayan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20BuildOrbit%20%7C%20AI-Powered%20Full%20Stack%20Developer&descAlignY=55&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Sahmed%20Zayan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20BuildOrbit%20%7C%20AI-Powered%20Full-Stack%20Product%20Builder&descAlignY=55&descColor=cccccc" />
 
 </div>
 
@@ -8,22 +8,78 @@
 
 ### About Me
 
-I'm a full stack developer and founder of **[BuildOrbit](https://github.com/sahmedonchain)**
+I'm an AI-powered full-stack product builder and the founder of **[BuildOrbit](https://github.com/sahmedonchain)**.
 
-I build apps, SaaS platforms, and web-based products using AI-powered development workflows - combining modern tools with real execution to deliver professional results.
+I build AI-powered web applications, SaaS products, customer-support systems, business automation tools, Web3 applications, and fintech-focused products.
 
-I've been in the **Web3 and blockchain space** for a long time - not just as a developer, but as someone who genuinely understands the ecosystem, the culture, and where it's heading.
+My work combines full-stack development, AI integration, Web3 product building, and more than 3 years of experience in customer support and community management.
 
-I also have a background in **customer support and community management** - so I understand people as much as I understand products.
+I use AI to accelerate development, research, documentation, testing, and problem-solving while remaining responsible for product structure, architecture, workflows, quality, and delivery.
+
+My customer-support and community-management background helps me understand both sides of product development:
+
+- How digital products are built
+- How real users interact with them
+- Where users face confusion or friction
+- How support and product workflows can be improved
 
 ---
 
-### Projects
+### What I'm Building
 
-| Project | Description | Live |
-|--------|-------------|------|
-| **MicroAI** | Pay-per-use AI chatbot dApp - Arc Testnet, USDC micropayments | [microai-tan.vercel.app](https://microai-tan.vercel.app) |
-| **ShadowPay** | Privacy-first payroll & treasury dApp - built on Miden's ZK architecture | [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app) |
+- AI-powered customer-support and business automation systems
+- Pay-per-use AI applications using blockchain infrastructure
+- Web3 ecosystem and developer-focused tools
+- Privacy-focused payment and payroll applications
+- Fintech dashboards and trading-related automation tools
+- Telegram-based market monitoring and notification systems
+
+---
+
+### Selected Projects
+
+| Project | Description | Status | Live / Link |
+|--------|-------------|--------|-------------|
+| **MicroAI** | A pay-per-use AI chatbot dApp exploring USDC-based micro-payments on Arc Testnet | In progress | [Open MicroAI](https://microai-tan.vercel.app) |
+| **ShadowPay** | A privacy-focused payroll and treasury dApp built around Miden's zero-knowledge architecture | In progress | [Open ShadowPay](https://shadowpay-miden.vercel.app) |
+| **Memecoin Signal Pro** | A Telegram-based memecoin signal bot designed to monitor selected market data and deliver automated alerts | Currently offline | [@memecoinsignalprobot](https://t.me/memecoinsignalprobot) |
+| **AI Business Automation** | An AI-powered business management and customer-support workflow for messaging-based interactions | In progress | Private / In development |
+| **Fintech & Trading Applications** | Financial account-management interfaces and trading-related automation tools | In progress | Private / Client-related |
+
+> **Note:** Memecoin Signal Pro is currently offline because its Railway deployment requires an active paid service. The project remains part of my product portfolio and may be redeployed in the future.
+
+---
+
+### Project Details
+
+#### MicroAI
+
+MicroAI is a pay-per-use AI chatbot dApp designed to explore practical AI micro-payments using blockchain infrastructure.
+
+- Network: Arc Testnet
+- Focus: AI chatbot, Web3 payments, USDC micro-payments
+- Status: In progress
+- Live demo: [microai-tan.vercel.app](https://microai-tan.vercel.app)
+
+#### ShadowPay
+
+ShadowPay is a privacy-focused payroll and treasury application designed around Miden's zero-knowledge architecture.
+
+- Network: Miden
+- Focus: Privacy, blockchain payroll, treasury workflows
+- Status: In progress
+- Live demo: [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app)
+
+#### Memecoin Signal Pro
+
+Memecoin Signal Pro is a Telegram-based bot created to monitor selected memecoin market data and deliver automated signal notifications.
+
+- Platform: Telegram
+- Telegram bot: [@memecoinsignalprobot](https://t.me/memecoinsignalprobot)
+- Focus: Market monitoring, signal delivery, and notification automation
+- Status: Currently offline
+- Hosting: Railway
+- Note: This is an experimental technology project and does not provide financial advice or guaranteed trading results.
 
 ---
 
@@ -53,7 +109,7 @@ I also have a background in **customer support and community management** - so I
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok%20AI-000000?style=for-the-badge&logoColor=white)
-![AI Powered](https://img.shields.io/badge/AI--Powered%20Dev-FF6B6B?style=for-the-badge&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI--Powered%20Development-FF6B6B?style=for-the-badge&logoColor=white)
 
 **Web3 & Blockchain**
 
@@ -66,9 +122,22 @@ I also have a background in **customer support and community management** - so I
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logoColor=white)
 
 </div>
+
+---
+
+### Current Focus
+
+- AI-powered full-stack product development
+- Customer-support and business-process automation
+- AI chatbot and knowledge-base workflows
+- SaaS product development
+- Web3 and USDC-based applications
+- Blockchain payment and payroll concepts
+- Product testing, deployment, documentation, and maintenance
 
 ---
 
@@ -93,5 +162,7 @@ I also have a background in **customer support and community management** - so I
 </div>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
+
 </div>
