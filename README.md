@@ -36,39 +36,61 @@ My customer-support and community-management background helps me understand both
 
 ---
 
-### Selected Projects
+### Selected Products
 
-| Project | Description | Status | Live / Link |
-|--------|-------------|--------|-------------|
-| **MicroAI** | A pay-per-use AI chatbot dApp exploring USDC-based micro-payments on Arc Testnet | In progress | [Open MicroAI](https://microai-tan.vercel.app) |
+> Some projects are showcased through public live demos while their source code remains private.
+
+| Product | Description | Status | Demo |
+|--------|-------------|--------|------|
+| **MicroAI** | A pay-per-use AI chatbot dApp exploring USDC-based micro-payments on Arc Testnet | In progress — private repository | [Open MicroAI](https://microai-tan.vercel.app) |
+| **KormiAI** | An AI-powered business manager for Facebook Messenger that supports customer messages, orders, payments, follow-ups, and human handoff | Beta / In development — private repository | [Visit KormiAI](https://kormiai-landing.vercel.app/) |
 | **ShadowPay** | A privacy-focused payroll and treasury dApp built around Miden's zero-knowledge architecture | In progress | [Open ShadowPay](https://shadowpay-miden.vercel.app) |
+| **FXBotProAI** | A fintech account-management website and trading-related product interface | In progress — private repository | [View Product](https://fxbotproai.vercel.app/) |
 | **Memecoin Signal Pro** | A Telegram-based memecoin signal bot designed to monitor selected market data and deliver automated alerts | Currently offline | [@memecoinsignalprobot](https://t.me/memecoinsignalprobot) |
-| **AI Business Automation** | An AI-powered business management and customer-support workflow for messaging-based interactions | In progress | Private / In development |
-| **Fintech & Trading Applications** | Financial account-management interfaces and trading-related automation tools | In progress | Private / Client-related |
-
-> **Note:** Memecoin Signal Pro is currently offline because its Railway deployment requires an active paid service. The project remains part of my product portfolio and may be redeployed in the future.
 
 ---
 
-### Project Details
+### Product Details
 
 #### MicroAI
 
 MicroAI is a pay-per-use AI chatbot dApp designed to explore practical AI micro-payments using blockchain infrastructure.
 
 - Network: Arc Testnet
-- Focus: AI chatbot, Web3 payments, USDC micro-payments
+- Focus: AI chatbot, Web3 payments, and USDC micro-payments
+- Source code: Private
 - Status: In progress
 - Live demo: [microai-tan.vercel.app](https://microai-tan.vercel.app)
+
+#### KormiAI
+
+KormiAI is an AI-powered business manager for Facebook Pages and Messenger.
+
+It is designed to help businesses manage customer messages, answer product questions, take orders, collect payments, follow up with customers, and hand off complex conversations to human agents.
+
+- Platform: Facebook Messenger
+- Focus: AI customer support, order management, payment collection, follow-ups, and business automation
+- Source code: Private
+- Status: Beta / In development
+- Landing page: [kormiai-landing.vercel.app](https://kormiai-landing.vercel.app)
 
 #### ShadowPay
 
 ShadowPay is a privacy-focused payroll and treasury application designed around Miden's zero-knowledge architecture.
 
 - Network: Miden
-- Focus: Privacy, blockchain payroll, treasury workflows
+- Focus: Privacy, blockchain payroll, and treasury workflows
 - Status: In progress
 - Live demo: [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app)
+
+#### FXBotProAI
+
+FXBotProAI is a fintech-focused account-management website and trading-related product interface.
+
+- Focus: Financial workflows, account management, dashboards, and trading-related automation
+- Source code: Private
+- Status: In progress
+- Live demo: [fxbotproai.vercel.app](https://fxbotproai.vercel.app)
 
 #### Memecoin Signal Pro
 
@@ -79,6 +101,7 @@ Memecoin Signal Pro is a Telegram-based bot created to monitor selected memecoin
 - Focus: Market monitoring, signal delivery, and notification automation
 - Status: Currently offline
 - Hosting: Railway
+- Source code: Private
 - Note: This is an experimental technology project and does not provide financial advice or guaranteed trading results.
 
 ---
@@ -137,6 +160,7 @@ Memecoin Signal Pro is a Telegram-based bot created to monitor selected memecoin
 - SaaS product development
 - Web3 and USDC-based applications
 - Blockchain payment and payroll concepts
+- Fintech dashboards and trading-related interfaces
 - Product testing, deployment, documentation, and maintenance
 
 ---
