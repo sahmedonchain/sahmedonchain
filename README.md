@@ -42,10 +42,9 @@ My customer-support and community-management background helps me understand both
 
 | Product | Description | Status | Demo |
 |--------|-------------|--------|------|
-| **MicroAI** | A pay-per-use AI chatbot dApp exploring USDC-based micro-payments on Arc Testnet | In progress — private repository | [Open MicroAI](https://microai-tan.vercel.app) |
+| **MicroAI** | Pay-per-use AI assistant for builders on Arc, paid in USDC | Live on Arc Mainnet | [Open MicroAI](https://microai-tan.vercel.app)<br>[Source code](https://github.com/sahmedonchain/microai) |
 | **KormiAI** | An AI-powered business manager for Facebook Messenger that supports customer messages, orders, payments, follow-ups, and human handoff | Beta / In development — private repository | [Visit KormiAI](https://kormiai-landing.vercel.app/) |
 | **ShadowPay** | A privacy-focused payroll and treasury dApp built around Miden's zero-knowledge architecture | In progress | [Open ShadowPay](https://shadowpay-miden.vercel.app) |
-| **FXBotProAI** | A fintech account-management website and trading-related product interface | In progress — private repository | [View Product](https://fxbotproai.vercel.app/) |
 | **Memecoin Signal Pro** | A Telegram-based memecoin signal bot designed to monitor selected market data and deliver automated alerts | Currently offline | [@memecoinsignalprobot](https://t.me/memecoinsignalprobot) |
 
 ---
@@ -54,12 +53,12 @@ My customer-support and community-management background helps me understand both
 
 #### MicroAI
 
-MicroAI is a pay-per-use AI chatbot dApp designed to explore practical AI micro-payments using blockchain infrastructure.
+MicroAI is a pay-per-use AI assistant for builders on Arc, paid in USDC.
 
-- Network: Arc Testnet
-- Focus: AI chatbot, Web3 payments, and USDC micro-payments
-- Source code: Private
-- Status: In progress
+- Network: Arc Mainnet
+- Focus: AI chat, Copilot, wallet analysis, transaction debugger, USDC credits
+- Source code: Public ([github.com/sahmedonchain/microai](https://github.com/sahmedonchain/microai))
+- Status: Live
 - Live demo: [microai-tan.vercel.app](https://microai-tan.vercel.app)
 
 #### KormiAI
@@ -82,15 +81,6 @@ ShadowPay is a privacy-focused payroll and treasury application designed around 
 - Focus: Privacy, blockchain payroll, and treasury workflows
 - Status: In progress
 - Live demo: [shadowpay-miden.vercel.app](https://shadowpay-miden.vercel.app)
-
-#### FXBotProAI
-
-FXBotProAI is a fintech-focused account-management website and trading-related product interface.
-
-- Focus: Financial workflows, account management, dashboards, and trading-related automation
-- Source code: Private
-- Status: In progress
-- Live demo: [fxbotproai.vercel.app](https://fxbotproai.vercel.app)
 
 #### Memecoin Signal Pro
 
@@ -137,7 +127,7 @@ Memecoin Signal Pro is a Telegram-based bot created to monitor selected memecoin
 **Web3 & Blockchain**
 
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Arc Testnet](https://img.shields.io/badge/Arc%20Testnet-6E40C9?style=for-the-badge&logoColor=white)
+![Arc Mainnet](https://img.shields.io/badge/Arc%20Mainnet-6E40C9?style=for-the-badge&logoColor=white)
 ![Miden SDK](https://img.shields.io/badge/Miden%20SDK-1a1a2e?style=for-the-badge&logoColor=white)
 ![USDC](https://img.shields.io/badge/USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white)
 
